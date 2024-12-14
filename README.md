@@ -7,6 +7,7 @@ Realice el ejercicio planteado en clase. A partir del siguiente código base.
 
 https://github.com/ztjona/metodos-fuente/blob/main/min_cuadrados.ipynb
 
-Indicaciones
+###Indicaciones
+
 Subir pdf del notebook con su nombre
 Realizar repositorio público. 
